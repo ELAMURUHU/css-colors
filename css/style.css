@@ -1,0 +1,48 @@
+.para-1{
+	background-color:Tomato
+}
+.para-2{
+	background-color:MediumSeaGreen
+}
+
+.para-3{
+	color:DodgerBlue
+}
+.para-4{
+	color: #6600ff
+}
+
+.para-5{
+	border: 2px solid #ff5c33
+}
+.para-6{
+	border: 2px solid #00ff80
+}
+
+.para-7{
+	background-color:rgb(255, 0, 0)
+}
+.para-8{
+	background-color:rgb(0, 255, 0)
+}
+.para-9{
+	background-color:rgb(0, 0, 255)
+}
+.para-10{
+	background-color:rgba(255, 99, 71, 0.2)
+}
+.para-11{
+	background-color:rgba(50, 184, 200, 0.2)
+}
+.para-12{
+	background-color:rgba(20, 250, 80, 0.2)
+}
+.para-13{
+	background-color:#ff6666
+}
+.para-14{
+	background-color:hsl(39, 100%, 50%)
+}
+.para-15{
+	background-color:hsla(9, 100%, 64%, 0.4)
+}
